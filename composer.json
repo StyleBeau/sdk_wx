@@ -1,6 +1,6 @@
 {
-    "name": "wuyun/weixin_pay_sdk",
-    "description": "微信支付相关的所有接口",
+    "name": "wuyun/sdk_wx",
+    "description": "weixinpay",
     "license": "Apache-2.0",
     "authors": [
         {
