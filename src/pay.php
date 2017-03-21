@@ -1,6 +1,6 @@
 <?php
-namespace wuyun;
-use wuyun\weixin_pay_sdk;
+namespace beau;
+use beau\weixin_pay_sdk;
 
 //公共支付类
 class pay extends weixin_pay_sdk{

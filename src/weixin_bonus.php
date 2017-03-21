@@ -1,6 +1,6 @@
 <?php
-namespace wuyun;
-use wuyun\weixin_pay_sdk;
+namespace beau;
+use beau\weixin_pay_sdk;
 
 //微信红包
 class weixin_bonus extends weixin_pay_sdk{

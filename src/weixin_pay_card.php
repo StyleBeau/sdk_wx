@@ -1,6 +1,6 @@
 <?php
-namespace wuyun;
-use wuyun\pay;
+namespace beau;
+use beau\pay;
 
 //微信刷卡支付
 class weixin_pay_card extends pay{

@@ -1,5 +1,5 @@
 <?php
-namespace wuyun;
+namespace beau;
 
 //支付公共方法集合
 class weixin_pay_sdk{

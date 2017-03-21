@@ -1,6 +1,6 @@
 <?php
-namespace wuyun;
-use wuyun\pay;
+namespace beau;
+use beau\pay;
 
 //扫码支付
 class weixin_scancode_pay extends pay{

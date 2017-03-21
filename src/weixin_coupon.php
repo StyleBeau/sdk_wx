@@ -1,6 +1,6 @@
 <?php
-namespace wuyun;
-use wuyun\weixin_pay_sdk;
+namespace beau;
+use beau\weixin_pay_sdk;
 
 //微信优惠劵卡卷(创建优惠劵还没有提供接口)
 class weixin_coupon extends weixin_pay_sdk{
