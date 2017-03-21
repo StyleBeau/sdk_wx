@@ -1,6 +1,6 @@
 {
     "name": "wuyun/sdk_wx",
-    "description": "weixinpay",
+    "description": "Wu Yun WeChat payment",
     "license": "Apache-2.0",
     "authors": [
         {
